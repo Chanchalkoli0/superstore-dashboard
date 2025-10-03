@@ -1,3 +1,5 @@
 1- Sales are heavily concentrated in a few states. The "State with Sales" chart shows that New York has significantly higher sales than any other state, followed by Pennsylvania and California, suggesting a core focus or strong market presence in these areas.
+
 2- Customer count is relatively low compared to product variety. With only 793 Customers generating sales from 9,994 Products, the business appears to rely on a high volume of purchases or a large variety of stock rather than a massive customer base.
+
 3- Sales peaked in the final quarter of the year. The MoM Sales (Month-over-Month Sales) chart shows a significant upward trend in the final three months, with the highest sales occurring in November (118,448), suggesting a strong seasonal or holiday impact on the business.
